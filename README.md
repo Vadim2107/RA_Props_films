@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/e6anb67y5av1dtx2?svg=true)](https://ci.appveyor.com/project/Vadim2107/ra-props-films)
 
 ### [GitHub Pages](https://vadim2107.github.io/RA_Props_films/)
 
